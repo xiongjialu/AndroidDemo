@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">显示文本和输入框</string>
     <string name="Button_name">登录</string>
+    <string name="text1">这是一个长的TextView01,这是一个长的TextView02,这是一个长的TextView03</string>
 </resources>

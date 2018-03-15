@@ -56,4 +56,5 @@ class MyOnClickListener implements View.OnClickListener{
         //当所有使用当前外部点击事件按钮要做出一个动作
         view.setAlpha(0.5f); //改变透明度
     }
+  }
 }
